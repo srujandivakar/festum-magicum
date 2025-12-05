@@ -14,16 +14,16 @@ const Index = () => {
             Arcanum Fest
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground font-body max-w-2xl mx-auto">
-            Where magic meets academia. Enter the enchanted realm of collegiate celebration.
+            Where magic meets academia. Enter the enchanted realm of collegiate celebration and wonder.
           </p>
         </div>
 
         <EntryPortal />
 
         <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-center">
-          <p className="text-muted-foreground text-sm font-display tracking-widest">
-            ✦ The Grand Magical College Festival ✦
-          </p>
+        <p className="text-muted-foreground text-sm font-display tracking-widest">
+          ✦ The Grand Magical College Festival 2024 ✦
+        </p>
         </div>
       </main>
 
